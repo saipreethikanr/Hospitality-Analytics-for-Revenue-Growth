@@ -94,11 +94,11 @@ Together, they enable a holistic analysis of **customer behavior** and **hotel o
 
 2. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/hospitality-powerbi-dashboard.git
+   git clone https://github.com/saipreethikanr/hospitality-powerbi-dashboard.git
    ```
 
 3. **Open the Dashboard**  
-   - Locate and open `Hospitality_Domain_Dashboard.pbix` in Power BI Desktop.
+   - Locate and open `Revenue Insights in the Hospitality Domain.pbix` in Power BI Desktop.
 
 4. **Explore & Interact**  
    - Use slicers, filters, and visualizations to gain actionable insights.
