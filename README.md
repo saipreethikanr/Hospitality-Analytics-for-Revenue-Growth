@@ -94,7 +94,7 @@ Together, they enable a holistic analysis of **customer behavior** and **hotel o
 
 2. **Clone the Repository**  
    ```bash
-   git clone https://github.com/saipreethikanr/hospitality-powerbi-dashboard.git
+   https://github.com/saipreethikanr/Hospitality-Analytics-for-Revenue-Growth.git
    ```
 
 3. **Open the Dashboard**  
